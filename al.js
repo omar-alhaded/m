@@ -4,19 +4,18 @@ $(`
 
 </style>
 <link rel="stylesheet" type="text/css" href="//www.fontstatic.com/f=jazeera-light,jazeera">
-<link rel="stylesheet" href="https://raw.githack.com/s6acl/sabaya/master/a1.css">
-<link rel="stylesheet" href="https://raw.githack.com/s6acl/sabaya/master/a2.css">
-<link rel="stylesheet" href="https://raw.githack.com/s6acl/sabaya/master/a3.css">
-<link rel="stylesheet" href="https://raw.githack.com/s6acl/sabaya/master/a6.css">
-<link rel="https://raw.githack.com/s6acl/sabaya/masterza5.css">
+<link rel="stylesheet" href="https://rawcdn.githack.com/omar-alhaded/m/6f2f1da07f4f7c9e7bc7c5474af9f955ba4fb34e/a1.css">
+<link rel="stylesheet" href="https://rawcdn.githack.com/omar-alhaded/m/6f2f1da07f4f7c9e7bc7c5474af9f955ba4fb34e/a2.css">
+<link rel="stylesheet" href="https://rawcdn.githack.com/omar-alhaded/m/6f2f1da07f4f7c9e7bc7c5474af9f955ba4fb34e/a3.css">
+<link rel="stylesheet" href="https://rawcdn.githack.com/omar-alhaded/m/6f2f1da07f4f7c9e7bc7c5474af9f955ba4fb34e/a6.css">
 </style>`).insertBefore('body');
 $(`<div style=" color: #006E69;text-align: center;margin-bottom: 10px; font-family:'jazeera-light', 
 Fontawesome">الاعلانات للضرورة فقط</div>`).insertBefore('span.fl.fa.fa-send');
 $( "button.btn.btn-primary" ).css( "border-radius", "24px 24px 24px 24px" )
 $('.nav-tabs').addClass('fl').css('width','100%');
 $('a[href="https://jawalhost.com/"]').removeAttr('href');
-$(`<link rel="stylesheet" href="https://raw.githack.com/zagcha/zag1/master/1.css"><style>`).insertBefore("body");
+$(`<link rel="stylesheet" href="https://rawcdn.githack.com/omar-alhaded/m/f0fb586fe383d03f35136367a77bcbf8a41fa774/1.css"><style>`).insertBefore("body");
 $( "button.btn.btn-primary" ).css( "border-radius", "15px 15px 15px 15px" )
 $(".label-primary").css("border-radius","15px 15px 15px 15px")
-$('.break.light').css({"background-html":"url(https://raw.githack.com/zagcha/Ne/master/zag.html )"});
+$('.break.light').css({"background-html":"url()"});
 $.getScript("https://raw.githack.com/s6acl/sabaya/master/al2.js");$( "button.btn.btn-primary" ).css( "border-radius", "15px 15px 15px 15px" )
