@@ -1,5 +1,3 @@
-$(`<img src="https://c.top4top.io/p_1680kiupw1.jpg" class="fr " style="Height:25%;width:100%;margin-right: 2px;">
-`).insertBefore('.nav-tabs');
 $(`
 
 </style>
