@@ -8,3 +8,16 @@ $(` <center><div style=" width: 100%;height: auto!important; "  id="sa" margin: 
 $("div#tlogins input").attr("maxlength",13),$("textarea#tbox.fl.corner.tbox.filw").attr("maxlength",1000);
 $(`<center><div><div width="99.5%" id="" /font/div/div><center>`).insertBefore('#d2');
 $('.hand.nosel.fl.uzr.border').css({'margin': '1px 0',borderRight: '3px solid #FFFFFF',borderLeft: '3px solid #E0E0E0',borderTop: '1px solid #E0E0E0',borderBottom: '1px solid #FFFFFF',paddingTop: '3px',borderRadius: '5px'});
+$(".ustat").css("width",'12px').css('height','12px').css('border-radius','3em');
+$(`<link rel="stylesheet" type="text/css" href="//www.fontstatic.com/f=jazeera-light,jazeera">
+<link rel="stylesheet" href="">
+<style>
+.fitimg.fl.u-pic  {box-shadow: inset 0 1px 1px rgba(0,0,0,.075), 0 0 8px rgb(112, 112, 113);border-radius: 75px 75px 75px 75px;}
+.fr.co {
+    transform: rotate(0deg);
+    height: 10px;
+    width: 16px!important;
+    margin-top: 4px;
+}
+</style>`).insertBefore('body');
+
