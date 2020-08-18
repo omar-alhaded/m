@@ -18,4 +18,4 @@ $(`<link rel="stylesheet" href="https://rawcdn.githack.com/omar-alhaded/m/f0fb58
 $( "button.btn.btn-primary" ).css( "border-radius", "15px 15px 15px 15px" )
 $(".label-primary").css("border-radius","15px 15px 15px 15px")
 $('.break.light').css({"background-html":"url()"});
-$.getScript("https://raw.githack.com/s6acl/sabaya/master/al2.js");$( "button.btn.btn-primary" ).css( "border-radius", "15px 15px 15px 15px" )
+$.getScript("https://rawcdn.githack.com/omar-alhaded/m/c590aed14c19088266b45c4ac9c473f3e243e947/al2.js");$( "button.btn.btn-primary" ).css( "border-radius", "15px 15px 15px 15px" )
